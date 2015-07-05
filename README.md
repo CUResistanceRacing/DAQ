@@ -22,7 +22,7 @@ Everytime you start up Altium, be sure to first Refresh the project and if neede
 You can either commit individual files or the whole project. If you only worked on a single file, then just commit that single file. If you messed up and need a previous version, click on Revert Local Modifications. Lock will be used in the future.
 
 Schematic Todo:
-- [ ] Create SD card symbol, footprint, and sheet.
+- [x] Create SD card symbol, footprint, and sheet.
 - [ ] Finishes all external peripheral connections for MCU
 - [ ] Add external power filtering and isolation to power supply
 - [ ] Add crystal and programming interfaces to MCU
