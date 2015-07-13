@@ -23,7 +23,7 @@ You can either commit individual files or the whole project. If you only worked 
 
 Schematic Todo:
 - [x] Create SD card symbol, footprint, and sheet.
-- [ ] Finishes all external peripheral connections for MCU
+- [x] Finish all external peripheral connections for MCU
 - [ ] Add various extra breakouts for prototyping purposes
 - [ ] Add external power filtering and isolation to power supply
 - [ ] Add crystal and programming interfaces to MCU
