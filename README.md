@@ -25,5 +25,5 @@ Schematic Todo:
 - [x] Create SD card symbol, footprint, and sheet.
 - [x] Finish all external peripheral connections for MCU
 - [ ] Add various extra breakouts for prototyping purposes
-- [ ] Add external power filtering and isolation to power supply
-- [ ] Add crystal and programming interfaces to MCU
+- [ ] Add external power filtering and isolation to power supply (deferred; not needed currently)
+- [x] Add crystal and programming interfaces to MCU
