@@ -37,7 +37,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=DAQ_v1.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -46,7 +46,7 @@ AnnotateOrder=3
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -85,7 +85,7 @@ GenerateClassCluster=0
 
 [Document4]
 DocumentPath=PowerSupplies.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -94,14 +94,14 @@ AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
 DocumentPath=AnalogCapture.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -110,7 +110,7 @@ AnnotateOrder=0
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -133,7 +133,7 @@ GenerateClassCluster=0
 
 [Document7]
 DocumentPath=DigitalComm.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=400
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -142,14 +142,14 @@ AnnotateOrder=5
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
 DocumentPath=DigitalCapture.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=500
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -158,7 +158,7 @@ AnnotateOrder=4
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -174,14 +174,14 @@ AnnotateOrder=2
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
 DocumentPath=SDCard.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=700
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -190,14 +190,14 @@ AnnotateOrder=8
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document11]
 DocumentPath=Breakouts.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=800
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -206,14 +206,14 @@ AnnotateOrder=1
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document12]
 DocumentPath=MCU.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=900
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -222,7 +222,7 @@ AnnotateOrder=6
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -1181,7 +1181,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
+SortOrder=1
 SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1
