@@ -27,4 +27,4 @@ Schematic Todo:
 - [x] Add various extra breakouts for prototyping purposes
 - [ ] Add external power filtering and isolation to power supply (deferred; not needed currently)
 - [x] Add crystal and programming interfaces to MCU
-- [ ] Add some LEDs and probing points (mainly SPI for ADC and CAN lines; possibly SDIO and Ethernet lines)
+- [x] Add some LEDs and probing points (mainly SPI for ADC and CAN lines; possibly SDIO and Ethernet lines)
