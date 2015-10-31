@@ -4,7 +4,7 @@ Do not use regular github app to manage this project! Only use Altium to connect
 How to connect to this repo via Altium 14:
 
 1. Go into the Preferences window and go into Design Repositories under Data Management. 
-2. Click Create New (SVN)
+2. Click Connect To (SVN)
     Name: DAQ
     Method: https
     Server: github.com
