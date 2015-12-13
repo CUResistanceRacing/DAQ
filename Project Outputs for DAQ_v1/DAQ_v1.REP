@@ -1,0 +1,431 @@
+*************************************************************
+FileName = DAQ_v1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Component Side
+      File : DAQ_v1.GTL
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Ground
+      File : DAQ_v1.G1
+
+    Adding Layer      : Ground
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D48
+    D53
+    D54
+    D55
+    D56
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Power
+      File : DAQ_v1.G2
+
+    Adding Layer      : Power
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D48
+    D49
+    D50
+    D51
+    D52
+    D55
+    D56
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : DAQ_v1.GBL
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D41
+    D43
+    D46
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : DAQ_v1.GPB
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : DAQ_v1.GPT
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DAQ_v1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D41
+    D59
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DAQ_v1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : DAQ_v1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D25
+    D26
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D39
+    D40
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DAQ_v1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DAQ_v1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DAQ_v1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : DAQ_v1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : DAQ_v1.GD1
+
+    Adding Drill Pair : Component Side-Solder Side
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : DAQ_v1.GG1
+
+    Adding Drill Pair : Component Side-Solder Side
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D78
+*************************************************************
+

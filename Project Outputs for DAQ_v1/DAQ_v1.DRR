@@ -1,0 +1,27 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: DAQ_v1.PcbDoc   12/12/2015  11:44:28 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII RoundHoles File : DAQ_v1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          120              32.40 Inch (823.00 mm)
+T2        12mil (0.3048mm)         Round          126              35.23 Inch (894.77 mm)
+T3        15mil (0.381mm)          Round          10               5.73 Inch (145.61 mm)
+T4        20mil (0.508mm)          Round          4                0.48 Inch (12.19 mm)
+T5        30mil (0.762mm)          Round          1                0.00 Inch (0.00 mm)
+T6        39.4mil (1.00076mm)      Round          6                0.40 Inch (10.15 mm)
+T7        40mil (1.016mm)          Round          35               8.89 Inch (225.85 mm)
+T8        43.3mil (1.09982mm)      Round          4                0.57 Inch (14.46 mm)
+T9        45mil (1.143mm)          Round          52               8.23 Inch (209.12 mm)
+T10       59.1mil (1.50114mm)      Round          2                0.95 Inch (24.15 mm)
+T11       61.8mil (1.56972mm)      Round          2                0.64 Inch (16.22 mm)
+T12       128mil (3.2512mm)        Round          2                0.50 Inch (12.70 mm)
+T13       134mil (3.4036mm)        Round          4                3.04 Inch (77.33 mm)
+T14       145mil (3.683mm)         Round          3                7.40 Inch (188.08 mm)
+---------------------------------------------------------------------------
+Totals                                            371              104.47 Inch (2653.62 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
